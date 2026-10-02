@@ -53,4 +53,4 @@ namespace CalculadoraDescontos.Tests
             Assert.Equal(elegibilidadeEsperada, resultado);
         }
     }
-}
+}   
